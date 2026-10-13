@@ -1,7 +1,8 @@
 # Rock, Paper, Scissors, Lizard, Spock
 
-A command-line game written in Python where you play against the computer.
-First to 3 points wins.
+An extended version of the classic Rock, Paper, Scissors, with two extra
+options (Lizard and Spock), written in Python. You play against the
+computer. First to 3 points wins.
 
 ## How to run
 
